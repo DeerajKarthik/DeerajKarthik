@@ -6,7 +6,7 @@
 
 *3rd-year B.Tech Artificial Intelligence @ NIT Surat (SVNIT) · Graduating April 2027*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sk-deeraj)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/s-k-deeraj)
 [![Blog](https://img.shields.io/badge/Blog-drj_files-111111?style=flat-square&logo=ghost&logoColor=white)](https://drjfiles.wordpress.com)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:deerajsk2006@gmail.com)
 
@@ -66,15 +66,32 @@ Designed multi-agent adversarial legal argumentation systems. Reached 87% argume
 ---
 
 ## Stack
-
+ 
 ```
-Languages     Python · C++ · SQL · LaTeX · Bash
-ML/DL         PyTorch · HuggingFace · TensorFlow/Keras · scikit-learn
-NLP           DeBERTa · LLaMA · Sentence Transformers · NLTK · spaCy
-Infra         SLURM · Docker · FastAPI · Neo4j · Linux (CUDA 13, H100 NVL)
-Design        Figma · Adobe Suite
+Languages        Python · C++ · SQL · LaTeX · Bash · JavaScript
+ 
+ML / DL          PyTorch · TensorFlow · Keras · scikit-learn · XGBoost
+                 EfficientNet · ResNet · MobileNet · GANs · IMPALA · MCTS
+ 
+NLP & LLMs       HuggingFace Transformers · DeBERTa-v3 · LLaMA · IndicTrans2
+                 InLegalTrans · Sentence Transformers · NLTK · spaCy
+                 LangChain · Gemini API · Anthropic API
+ 
+RL & Agents      OpenAI Gym · custom OpenEnv · PPO · GRPO · shaped rewards
+                 multi-agent adversarial systems · RLHF pipelines
+ 
+Databases        Neo4j (Cypher · KG-RAG) · PostgreSQL · MongoDB · SQLite
+                 Pinecone · vector stores
+ 
+Infra & DevOps   SLURM · Docker · Git · Linux · CUDA 13 · H100 NVL (93.6GB)
+                 FastAPI · WebSocket · REST APIs · Weights & Biases
+ 
+Cloud            GCP (Vertex AI · Cloud Storage) · Hugging Face Hub
+                 Kaggle (GPU kernels) · Colab Pro
+ 
+Design           Figma · Adobe Illustrator · Adobe Photoshop · Canva
 ```
-
+ 
 ---
 
 ## On the Side
