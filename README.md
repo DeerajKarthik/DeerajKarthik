@@ -1,14 +1,90 @@
-# 💫 About Me:
-Hi, I’m Deeraj an AI Student with a focus on intelligent agents, applied machine learning, and full-stack experimentation.<br><br>What I Do<br><br>    AI & ML Systems: Building scalable ML pipelines, agent frameworks, and fuzzy logic systems<br><br>    Language Models: Fine-tuning transformer-based LLMs (LLaMA, Mistral, etc.) for reasoning tasks<br><br>    Infra & Deployment: FastAPI, Docker, Colab workflows, MLOps pipelines with reproducibility in mind<br><br>    Experimental Projects: Game AI, zero-shot skill matchers, synthetic data engines, and multimodal toolchains<br><br>    Low-Latency Interfaces: CLI tools, custom dashboards, voice-enabled assistants (yes, for fridges too)
+<div align="center">
 
+# S K Deeraj
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@deerajkarthik) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/s-k-deeraj) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deerajsk2006@gmail.com) 
+**AI Engineer · Researcher · Chief Designer**
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Octopus Deploy](https://img.shields.io/badge/octopus%20deploy-0D80D8?style=for-the-badge&logo=octopusdeploy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Mercurial](https://img.shields.io/badge/mercurial-999999.svg?style=for-the-badge&logo=mercurial&logoColor=white) ![TeamCity](https://img.shields.io/badge/teamcity-000000.svg?style=for-the-badge&logo=teamcity&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Uber](https://img.shields.io/badge/Uber-%23000000.svg?style=for-the-badge&logo=Uber&logoColor=white)
+*3rd-year B.Tech Artificial Intelligence @ NIT Surat (SVNIT) · Graduating April 2027*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sk-deeraj)
+[![Blog](https://img.shields.io/badge/Blog-drj_files-111111?style=flat-square&logo=ghost&logoColor=white)](https://drjfiles.wordpress.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:deerajsk2006@gmail.com)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DeerajKarthik&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I work at the intersection of **NLP research**, **systems ML**, and the occasional 3am debugging session that technically counts as internship output.
+
+Currently:
+- Writing papers on machine unlearning, GAN-based data forensics, and AI-generated text detection
+- Fine-tuning large models on shared H100 clusters and hoping SLURM doesn't kill the job
+- Leading the team at [Renesa](https://renesasvnit.com), SVNIT's media and publication house, as Chief Designer and Senior Editor
+- Looking for research internships, MS (Research) programs, and interesting problems
+
+---
+
+## Research
+
+| Paper | Status | Venue Target |
+|---|---|---|
+| **[English-Hindi legal MT via domain-adapted InLegalTrans & IndicTrans2](https://aclanthology.org/2025.justnlp-main.13/)** | Published | IJCNLP-AACL (ACL Anthology) 2025, Mumbai |
+| **TAP-Detect** — AI-generated text detection via Late-Stage Volatility Decay (VDR signal, DeBERTa-v3-base) | Training runs in progress | IEEE TIFS |
+| **IDSISA** — Machine unlearning with two-tier certification using Influence functions and Knowledge Distillation | Revision (Reject & Resubmit) | IEEE TAI |
+| **GAN-based Smart Grid Data Forensics** | Near submission | - |
+| **MoE Expert Specialization in Mental Health Language** — Mechanistic interpretability on Sarvam-30B Hindi clinical routing | Early stage | ACL 2026 BlackboxNLP / EMNLP 2026 |
+
+---
+
+## Industry Experience
+
+**Pimic AI** — ML Research Intern
+Fine-tuned LLMs for edge deployment on a 500GB+ Common Crawl subset. Achieved 4× inference speedup through quantization and architecture-level optimization.
+
+**L&T Technology Services** — NLP Intern
+Built multilingual Neural Machine Translation pipelines. Hit 94%+ BLEU across language pairs; deployed in production translation workflows.
+
+**SVNIT NLP Lab** — Research Intern
+Designed multi-agent adversarial legal argumentation systems. Reached 87% argument relevance score; co-authored research on adversarial LLM agents for courtroom simulation.
+
+---
+
+## Selected Projects
+
+**CrimeSys** — KG-RAG system over 2.5M+ Indian crime records. Neo4j graph backend, 89% NL-to-Cypher accuracy. Built to answer investigative queries in plain English.
+
+**TAP-Detect** — 8-component detection pipeline that exploits how LLM token distributions decay over generation length. The VDR signal catches what perplexity alone misses.
+
+**GameMind** — IMPALA + LLM + MCTS hybrid agent. 40% higher task completion vs. baseline on complex game environments.
+
+**IRTriage-Env** — SRE incident response RL environment (Scaler OpenEnv Hackathon). FastAPI-backed, shaped reward, OpenEnv spec compliant.
+
+**DebateForge** — Socratic adversarial document debate system. Gemini-powered, real-time via WebSocket, with knowledge gap heatmaps. Built at Hacknight 2025 / MLH.
+
+**Courtroom Simulation** — Adversarial LLM agents playing prosecution and defense over structured legal corpora. Precursor to the SVNIT NLP Lab research.
+
+---
+
+## Stack
+
+```
+Languages     Python · C++ · SQL · LaTeX · Bash
+ML/DL         PyTorch · HuggingFace · TensorFlow/Keras · scikit-learn
+NLP           DeBERTa · LLaMA · Sentence Transformers · NLTK · spaCy
+Infra         SLURM · Docker · FastAPI · Neo4j · Linux (CUDA 13, H100 NVL)
+Design        Figma · Adobe Suite
+```
+
+---
+
+## On the Side
+
+I write a blog called **[drj files](https://drjfiles.wordpress.com)** — dry wit and observations about things that probably don't need to be written about but somehow end up being 800 words anyway.
+
+---
+
+<div align="center">
+
+*"The best time to start the experiment was last week. The second best time is to pretend you did."*
+
+</div>
