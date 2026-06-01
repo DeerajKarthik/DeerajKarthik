@@ -31,7 +31,7 @@ Currently:
 | **[English-Hindi legal MT via domain-adapted InLegalTrans & IndicTrans2](https://aclanthology.org/2025.justnlp-main.13/)** | Published | IJCNLP-AACL (ACL Anthology) 2025, Mumbai |
 | **TAP-Detect** — AI-generated text detection via Late-Stage Volatility Decay (VDR signal, DeBERTa-v3-base) | Training runs in progress | IEEE TIFS |
 | **IDSISA** — Machine unlearning with two-tier certification using Influence functions and Knowledge Distillation | Revision (Reject & Resubmit) | IEEE TAI |
-| **GAN-based Smart Grid Data Forensics** | Near submission | - |
+| **GAN-based Smart Grid Data Forensics** | Accepted | ICDSNE 2026 |
 | **MoE Expert Specialization in Mental Health Language** — Mechanistic interpretability on Sarvam-30B Hindi clinical routing | Early stage | ACL 2026 BlackboxNLP / EMNLP 2026 |
 
 ---
