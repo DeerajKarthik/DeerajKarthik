@@ -38,6 +38,9 @@ Currently:
 
 ## Industry Experience
 
+**IIT Madras** — Research Intern
+Working on robust algorithms for Federated Learning.
+
 **Pimic AI** — ML Research Intern
 Fine-tuned LLMs for edge deployment on a 500GB+ Common Crawl subset. Achieved 4× inference speedup through quantization and architecture-level optimization.
 
@@ -47,51 +50,7 @@ Built multilingual Neural Machine Translation pipelines. Hit 94%+ BLEU across la
 **SVNIT NLP Lab** — Research Intern
 Designed multi-agent adversarial legal argumentation systems. Reached 87% argument relevance score; co-authored research on adversarial LLM agents for courtroom simulation.
 
----
 
-## Selected Projects
-
-**CrimeSys** — KG-RAG system over 2.5M+ Indian crime records. Neo4j graph backend, 89% NL-to-Cypher accuracy. Built to answer investigative queries in plain English.
-
-**TAP-Detect** — 8-component detection pipeline that exploits how LLM token distributions decay over generation length. The VDR signal catches what perplexity alone misses.
-
-**GameMind** — IMPALA + LLM + MCTS hybrid agent. 40% higher task completion vs. baseline on complex game environments.
-
-**IRTriage-Env** — SRE incident response RL environment (Scaler OpenEnv Hackathon). FastAPI-backed, shaped reward, OpenEnv spec compliant.
-
-**DebateForge** — Socratic adversarial document debate system. Gemini-powered, real-time via WebSocket, with knowledge gap heatmaps. Built at Hacknight 2025 / MLH.
-
-**Courtroom Simulation** — Adversarial LLM agents playing prosecution and defense over structured legal corpora. Precursor to the SVNIT NLP Lab research.
-
----
-
-## Stack
- 
-```
-Languages        Python · C++ · SQL · LaTeX · Bash · JavaScript
- 
-ML / DL          PyTorch · TensorFlow · Keras · scikit-learn · XGBoost
-                 EfficientNet · ResNet · MobileNet · GANs · IMPALA · MCTS
- 
-NLP & LLMs       HuggingFace Transformers · DeBERTa-v3 · LLaMA · IndicTrans2
-                 InLegalTrans · Sentence Transformers · NLTK · spaCy
-                 LangChain · Gemini API · Anthropic API
- 
-RL & Agents      OpenAI Gym · custom OpenEnv · PPO · GRPO · shaped rewards
-                 multi-agent adversarial systems · RLHF pipelines
- 
-Databases        Neo4j (Cypher · KG-RAG) · PostgreSQL · MongoDB · SQLite
-                 Pinecone · vector stores
- 
-Infra & DevOps   SLURM · Docker · Git · Linux · CUDA 13 · H100 NVL (93.6GB)
-                 FastAPI · WebSocket · REST APIs · Weights & Biases
- 
-Cloud            GCP (Vertex AI · Cloud Storage) · Hugging Face Hub
-                 Kaggle (GPU kernels) · Colab Pro
- 
-Design           Figma · Adobe Illustrator · Adobe Photoshop · Canva
-```
- 
 ---
 
 ## On the Side
