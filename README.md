@@ -4,7 +4,7 @@
 
 **AI Engineer · Researcher · Chief Designer**
 
-*3rd-year B.Tech Artificial Intelligence @ NIT Surat (SVNIT) · Graduating April 2027*
+*4th-year B.Tech Artificial Intelligence @ NIT Surat (SVNIT) · Graduating April 2027*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/s-k-deeraj)
 [![Blog](https://img.shields.io/badge/Blog-drj_files-111111?style=flat-square&logo=ghost&logoColor=white)](https://drjfiles.wordpress.com)
